@@ -1,0 +1,4 @@
+Testsuite: cme.entity.questionpool.QuestionPropDefineTests
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 3.355 sec
+
+Testcase: testRoleImport took 3.321 sec

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Dbb-PC" name="cme.entity.questionpool.QuestionPropDefineTests" tests="1" time="3.355" timestamp="2014-03-19T08:27:47">
+  <properties />
+  <testcase classname="cme.entity.questionpool.QuestionPropDefineTests" name="testRoleImport" time="3.321" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
